@@ -1,6 +1,6 @@
-<!-- cabecera omagen -->
+<!-- cabecera Imagen -->
 <div align="center">
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
+  <img width="100%" src="https://i.ibb.co/2hCMC2G/new-cover-Git-Hub.jpg" alt="new-cover-Git-Hub" border="0"> 
 </div>
 <p align="left">
   <img
@@ -42,7 +42,7 @@
 ├─▣ Creador de Contenidos (Cpywriter)
 ├─▣ Marketing Digital
 ├─▣ Consultoria de Negocios 
-├─▣ Desarrollo en Herramientas de Microsoft Office
+├─▣ Desarrollo en Herramientas de MS Office
 ├─▣ Versat, Cimioc, Andariego *(Cuba)
 │
 │
